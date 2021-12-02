@@ -3,6 +3,11 @@
 - 🌱 Estudando na GenerationBrasil @https://www.linkedin.com/school/generationbrasil/
 - 📚 Estou em transição de carreira para o mundo de programação e estudando para me tornar um dev full-stack java
 - 😄 Pronouns: Ele/Dele
+
+- Link para o projeto do meu blog pessoal: Back-end https://github.com/lusferr/blogPessoal
+                                           Front-end https://github.com/lusferr/blogPessoalFront
+
+- Atual projeto que estou trabalhando: https://github.com/conectaGeneration/Conecta-BackEnd
 ##
   <div align="left">
     <a href="https://github.com/lusferr">
