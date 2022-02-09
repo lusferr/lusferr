@@ -4,9 +4,9 @@
 - 📚 Estou em transição de carreira para o mundo de programação e estudando para me tornar um dev full-stack java
 - 😄 Pronouns: Ele/Dele
 
-- Link para o projeto do meu blog pessoal: <br>
- Back-end https://github.com/lusferr/blogPessoal <br>
- Front-end https://github.com/lusferr/blogPessoalFront <br>
+- Link para o projeto que estou trabalhando atualmente: <br>
+ Back-end -> https://github.com/lusferr/ecommerce-plantas <br>
+ 
   
   
 
