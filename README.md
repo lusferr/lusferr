@@ -10,7 +10,7 @@
   
   
 
-- Atual projeto que estou trabalhando: https://github.com/conectaGeneration/Conecta-BackEnd
+- Último projeto concluido: https://github.com/conectaGeneration/Conecta-BackEnd
 ##
   <div align="left">
     <a href="https://github.com/lusferr">
