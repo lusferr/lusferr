@@ -4,10 +4,8 @@
 - 📚 Estou em transição de carreira para o mundo de programação e estudando para me tornar um dev full-stack java
 - 😄 Pronouns: Ele/Dele
 
-- Link para o projeto que estou trabalhando atualmente: <br>
- Back-end -> https://github.com/lusferr/ecommerce-plantas <br>
+
  
-  
   
 
 - Último projeto concluido: https://github.com/conectaGeneration/Conecta-BackEnd
