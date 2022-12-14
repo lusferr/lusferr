@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Formado pela GenerationBrasil @https://www.linkedin.com/school/generationbrasil/
-- 📚 Estou em transição de carreira para o mundo de programação e estudando para me tornar um dev full-stack java
+- 📚 Desenvolvedor front-end
 - 😄 Pronouns: Ele/Dele
 
 
