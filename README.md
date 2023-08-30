@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Trabalhando na Stairs Digital<br>🌱 Cursando ADS - FACENS<br>🧙🏽‍ Desenvolvedor front-end<br>😄 Pronouns: Ele/Dele
+🌱 Cursando ADS - FACENS<br>🧙🏽‍ Desenvolvedor front-end<br>😄 Pronouns: Ele/Dele
 
 
 ## 🌐 Socials:
